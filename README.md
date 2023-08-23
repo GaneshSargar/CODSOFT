@@ -1,2 +1,2 @@
 # CODSOFT
-There are all tasks which are given to us in an Web Development Internship at CODSOFT.
+These all are the projects which are given to me in an Web Development Internship at CODSOFT.
