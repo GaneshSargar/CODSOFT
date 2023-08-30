@@ -162,7 +162,7 @@ nav ul li a:hover::after{
 }
 
 
-/* ---------------------- Services -------------------- */
+/* ---------------------- Certificates -------------------- */
 
 #services {
     padding: 30px 0;  
@@ -178,7 +178,7 @@ nav ul li a:hover::after{
 .services-list div {
     background:#262626;
     padding: 40px;
-    font-size: 13px;
+    font-size: 14px;
     font-weight: 300;
     border-radius: 10px;
     transition: 0.5s ;
@@ -206,6 +206,14 @@ nav ul li a:hover::after{
 .services-list div:hover {
     background: #ff004f;
     transform: translate(-10px);
+}
+
+.services-list div a {
+    font-size: 13px;
+}
+
+.certi a:hover {
+    background: #080808;
 }
 
 /* ------------ Portfolio -----------*/
